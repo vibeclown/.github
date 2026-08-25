@@ -1,6 +1,6 @@
 <div align="center">
 
-### Welcome to the VibeClown!
+### Welcome to the VibeClown community!
 
 [![Banner](https://raw.githubusercontent.com/vibeclown/.github/refs/heads/main/assets/Comp1_00001.png)](https://example.com)
 
